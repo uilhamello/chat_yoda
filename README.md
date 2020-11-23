@@ -18,7 +18,7 @@ change the value of "HOST_MACHINE_UNSECURE_HOST_PORT" to one of your own.
 And restart docker container:
 cd docker && docker-composer restart
 
-<h1>About the project<h1>
+<h1>About the project</h1>
 
 It is using Laravel Framework.
 The code is kept in webservice folder.
