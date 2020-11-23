@@ -21,7 +21,7 @@ cd docker && docker-composer restart
 <h1>About the project</h1>
 
 It is using Laravel Framework.
-The code is kept in webservice folder.
+The code is in the webservice folder.
 
 
 
